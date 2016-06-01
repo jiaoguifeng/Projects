@@ -1,0 +1,541 @@
+/*
+  Localizable.strings
+  MyLink
+
+  Created by chen on 15/12/31.
+  Copyright © 2015年 tricheer. All rights reserved.
+*/
+
+/* MainUIStrings */
+"mainUITitleStr"  =   "Mylink M2Y";
+"mainUINoDeviceStr"  =   "No Device";
+
+/* SettingMainUIStrings */
+"loginStr"  =   "Click to Login";
+"logoutStr"  =   "Click to Logout";
+"statusStr"  =   "STATUS";
+"connectionStr"  =   "CONNECTION";
+"wifiDiskStr"  =   "WIFI DISK";
+"settingStr"  =   "SETTING";
+
+"httpShareLoginStr"  =   "HTTP Share Login";
+"httpShareConfigStr"  =   "Config HTTP Share Access";
+"wifiCacheStr"  =   "WIFI Cache";
+
+"wifiUsersStr"  =   "WIFI USERS";
+
+/* LoginUIStrings */
+"userNameStr"  =   "USERNAME";
+"passwordStr"  =   "PASSWORD";
+"rememberPasswordStr"  =   "Remember password";
+
+/* StatusUIStrings */
+"statusWiFi24GTitleStr"  =   "2.4G WiFi";
+"statusWiFi5GTitleStr"  =   "5G WiFi";
+"statusWiFiSwitchStr"  =   "WiFi Switch";
+"statusWiFiSSIDStr"  =   "SSID";
+"statusWiFiChannelStr"  =   "Channel";
+"statusWiFiSecurityStr"  =   "Security Mode";
+"statusDeviceListTitleStr"  =   "Device List";
+
+"statusHostNameStr"  =   "Host Name: ";
+"statusIPAddressStr"  =   "IP Address: ";
+"statusMACAddressStr"  =   "Mac Address: ";
+"statusConnectModeStr"  =   "Connect Mode: ";
+"statusConnectTimeStr"  =   "Connect Time: ";
+
+/* ConnectionUIStrings */
+"connectionConnectStr"  =   "Dial/Hang";
+"connectionTrafficCounterStr"  =   "Traffic Counters";
+"connectionStareDateStr"  =   "Start Date";
+"connectionTotalConnectionTimeStr"  =   "Total Connection Time";
+"connectionReceivedStr"  =   "Data Received";
+"connectionTransmittedStr"  =   "Data Transmitted";
+"connectionTotalDataStr"  =   "Total Data";
+
+
+/* WiFiDiskUIStrings */
+"StorageAddressStr"  =   "Storage Address";
+"NetWorkDisconnectedStr"  =   "Network disconnected";
+
+/* SettingUIStrings */
+"quickSetupStr"  =   "Quick Setup";
+"wanStr"  =   "Wan";
+"wifiStr"  =   "Wi-Fi";
+"routerStr"  =   "Router";
+"systemStr"  =   "System";
+
+/* QuickSetupUIStrings */
+"LoginSettingStr"   =   "Login Setting";
+"NewUserNameStr"    =   "New Username";
+"NewPasswordStr"    =   "New Password";
+"ConfirmPasswordStr"    =   "Confirm Password";
+"SSIDStr"   =   "SSID";
+"SecurityModeStr"   =   "Security Mode";
+"WlanPasswordStr"   =   "Wlan Password";
+"SubmitStr" =   "Submit";
+
+/* WanUIStrings */
+"profileMgrStr"  =   "Profile Management";
+"networkSettingStr"  =   "Network Settings";
+"mobileConnStr"  =   "Mobile Connection";
+"pinMgrStr"  =   "PIN Management";
+
+/* profileMgrUIStrings */
+"profileMgrSetDefaultStr"  =   "Set the default APN";
+"profileMgrProfileNameStr"  =   "*Profile Name";
+"profileMgrUserNameStr"  =   "User Name";
+"profileMgrPasswordStr"  =   "Password";
+"profileMgrAPNStr"  =   "APN";
+"profileMgrDialupNumberStr"  =   "Dial-up Number";
+"profileMgrAutyTypeStr"  =   "Auth. Type";
+
+/* networkSettingUIStrings */
+"networkSettingSelectionStr"  =   "Network Selection";
+"networkSettingNetworkList"  =   "Network List (Operator, Service, Status)";
+
+/* mobileConnectionUIStrings */
+"moblieConnectionRoamingStr"  =   "Roaming";
+"mobileConnectionConnectMode"  =   "Connect Mode";
+
+/* pinMgrUIStrings */
+"pinMgrPinInfoTitleStr"  =   "PIN Info";
+"pinMgrPinStatusStr"  =   "PIN Status";
+"pinMgrPinRemainStr"  =   "PIN Retain Times";
+"pinMgrPukRemainStr"  =   "PUK Retain Times";
+"pinMgrPinOperationStr"  =   "PIN Operation";
+"pinMgrPinEnableStatusStr"  =   "PIN enabled";
+"pinMgrPinDsiableStatusStr"  =   "PIN disabled";
+"pinMgrModifyPINStr"  =   "Mofify PIN";
+
+/* WiFiUIStrings */
+"24GWiFiSettingStr"  =   "2.4G WiFi Setting";
+"5GWiFiSettingStr"  =   "5G WiFi Setting";
+"24GMacFilterStr"  =   "2.4G MAC Filter";
+"5GMacFilterStr"  =   "5G MAC Filter";
+"24GWPSStr"  =   "2.4G WPS";
+"5GWPSStr"  =   "5G WPS";
+
+/* wifiSettingUSStrings */
+"WiFiSwitchStr"     =   "WiFi Switch";
+"BroadCastStr"  =   "BroadCast";
+"SSIDStr"   =   "SSID";
+"WirelessInterfaceStr"   =   "Wireless Interface";
+"RegulatoryDomainStr"   =   "Regulatory Domain";
+"ChannelStr"   =   "Channel";
+"BeaconIntervalStr"   =   "Beacon Interval";
+"BandWidthStr"   =   "Band Width";
+"MaxNumberofUsersStr"   =   "Max Number of Users";
+"SecurityModeStr"   =   "Security Mode";
+"WiFiPasswordStr"   =   "WiFi Password";
+
+/* macFilterUSStrings */
+"MacFilterStr"  =   "Mac Filter";
+"MacFilterModeStr"  =   "Mac Filter Mode";
+"MacAddressStr"  =   "Mac Address";
+"MacAddressNameStr"  =   "Name";
+"AddStr"  =   "Add";
+"MacFilterListStr"  =   "Mac Filter List";
+
+/* wpsUSStrings */
+"WPSSettingStr"  =   "WPS Setting";
+"WPSStr"  =   "WPS";
+"ConnectionModeStr"  =   "Connection Mode";
+"ClientPINStr"  =   "Client PIN";
+"PCBStr"  =   "Press 'Save' to save your settings and WPS connection will be established.";
+"NoConnectionStr"  =   "Press 'Save' to save your settings without connecting.";
+"WiFiSwitchDisable2GStr"  =   "Please enable the 2.4G WiFi.";
+"WiFiSwitchDisable5GStr"  =   "Please enable the 5G WiFi.";
+"WiFiWPSSwitchDisable2GStr"  =   "Please enable the 2.4G WPS.";
+"WiFiWPSSwitchDisable5GStr"  =   "Please enable the 5G WPS.";
+
+/* RouterUIStrings */
+"upnpStr"  =   "UPnP Settings";
+"lanStr"  =   "LAN";
+"staticDhcpStr"  =   "Statics DHCP";
+"ddnsStr"  =   "DDNS";
+"lanIpFilterStr"  =   "LAN IP Filter";
+"urlFilterStr"  =   "URL Filter";
+"portForwardStr"  =   "Port Forwarding";
+"dmzStr"  =   "DMZ Settings";
+
+/* RouterUPnPUIStrings */
+"upnpStr"  =   "UPnP";
+"l2tpStr"  =   "L2TP Pass-Through";
+"pptpStr"  =   "PPTP Pass-Through";
+"ipSecStr"  =   "IPSec Pass-Through";
+
+/* RouterLANUIStrings */
+"lanIPAddrStr"  =   "IP Address";
+"lanSubnetMaskStr"  =   "Subnet Mask";
+"lanHostNameStr"  =   "Host Name";
+"lanDhcpServerStr"  =   "DHCP Server";
+"lanDhcpIPPoolStr"  =   "DHCP IP Pool";
+"lanDhcpLeaseTimeStr"  =   "DHCP Lease Time";
+"lanDNSModeStr"  =   "DNS Mode";
+"lanDNSServerPrimaryStr"  =   "Primary DNS Server";
+"lanDNSServerSecondaryStr"  =   "Secondary DNS Server";
+"landDNSRelayStr"  =   "DNS Relay";
+
+/* RouterStaticsDHCPUIStrings */
+"statisticHhcpHostNameStr"  =   "Host Name";
+"statisticMacAddressStr"  =   "MAC Address";
+"statisticIPAddressStr"  =   "IP Address";
+"statisticStateStr"  =   "State";
+"statisticAssignmentListStr"  =   "DHCP Static IP Assignment List";
+
+/* RouterDDNSUIStrings */
+"ddnsServerStr"  =   "DDNS Server";
+"ddnsUserNameStr"  =   "User Name";
+"ddnsPasswordStr"  =   "Password";
+"ddnsDomainNameStr"  =   "Domain Name";
+
+/* RouterLanIPFilterUIStrings */
+"lanIPFilterControlStr"  =   "IP Filter Control";
+"lanIPFilterIPAddrFromStr"  =   "Source IP Address";
+"lanIPFilterIPAddrToStr"  =   "Dest IP Address";
+"lanIPFilterPortStr"  =   "Port";
+"lanIPFilterProtocolStr"  =   "Protocol";
+"lanIPFilterListStr"  =   "IP Filter List";
+
+/* RouterURLFilterUIStrings */
+"urlFilterControlStr"  =   "URL Filter Control";
+"urlFilterURLAddrStr"  =   "URL Address";
+"urlFilterListStr"  =   "URL Filter List";
+
+/* RouterPortForwardingUIStrings */
+"portForwardingStr"  =   "Port Forwarding";
+"portForwardingAppStr"  =   "Application";
+"portForwardingStartStr"  =   "Start";
+"portForwardingEndStr"  =   "End";
+"portForwardingProtocolStr"  =   "Protocol";
+"portForwardingIPAddrStr"  =   "IP Address";
+"portForwardingStateStr"  =   "State";
+"portForwardingListStr"  =   "Port Forwarding List";
+
+/* RouterDMZSettingUIStrings */
+"dmzSettingStr"  =   "DMZ";
+"dmzSettingDstIPAddressStr"  =   "Destination IP Address";
+"dmzSettingSrcIPAddressStr"  =   "Source IP Address";
+"dmzSettingFromStr"  =   "From";
+"dmzSettingToStr"  =   "To";
+
+/* SystemUIStrings */
+"modifyPassStr"  =   "Modify Password";
+"restoreStr"  =   "Restore Defaults";
+"rebootStr"  =   "Reboot";
+"timeStr"  =   "Time";
+"storageStr"  =   "Storage";
+"aboutStr"  =   "About";
+
+/* ModifyPasswordUIStrings */
+"modifyPasswordNewUserNameStr"  =   "New Username";
+"modifyPasswordNewPasswordStr"  =   "New Password";
+"modifyPasswordConformPasswordStr"  =   "Confirm Password";
+
+/* RestoreDefaultsUIStrings */
+"restoreDefaultResetStr"  =   "Reset";
+"restoreDefaultResetFactoryStr"  =   "Reset to factory default settings";
+
+/* RebootUIStrings */
+"rebootSystemShutdownStr"  =   "System Shutdown";
+"rebootSystemRebootStr"  =   "System reboot";
+
+/* TimeUISstrings */
+"timeSystemTimeStr"  =   "System Time";
+"timeCurrentTimeStr"  =   "Current Time";
+"timeModeStr"  =   "Mode";
+"timeNTPServerStr"  =   "NTP Server (*Example: pool.ntp.org)";
+"timeTimeZoneStr"  =   "Time Zone";
+"timeYearStr"  =   "Year";
+"timeMonthStr"  =   "Month";
+"timeDayStr"  =   "Day";
+"timeHourStr"  =   "Hour";
+"timeMinuteStr"  =   "Minute";
+"timeSecondStr"  =   "Second";
+
+/* StorageUIStrings */
+"storageStorageStr"  =   "Storage";
+
+/* AboutUIStrings */
+"aboutTitleStr"  =   "";
+"aboutAppVerStr"  =   "App Version";
+"aboutModemVerStr"  =   "Modem Version";
+"aboutSoftwareVerStr"  =   "Software Version";
+"aboutHardwareVerStr"  =   "Hardware Version";
+"aboutIMEIStr"  =   "IMEI";
+"aboutMacAddrStr"  =   "2.4G MAC Address";
+"aboutMacAddr5GStr"  =   "5G MAC Address";
+
+/* sdcardStrings */
+"sdCardNo" = "SD card not detected";
+"sdCardNotReady" = "Can not access SD card";
+"sdCardError" = "SD card error";
+"sdInfoStr" = "Format: %@   Capacity: %@MB   Available: %@MB";
+"createStr" = "New Folder";
+"inputFolderNameStr" = "Please Input Folder Name";
+"folderNameStr" = "Folder Name";
+"fileNameEmptyStr" = "The name should not be empty !";
+"sdImageSaveFailed" = "Save image file failed";
+"sdImageSaveSuccess" = "Save image file success";
+"sdSizeStr" = "Size: ";
+
+"inputNewNameStr" = "Please input the new name";
+"inputNewNamePlaceStr" = "New name";
+
+"categoryAllStr" = "All";
+"categoryImageStr" = "Images";
+"categoryAudioStr" = "Audios";
+"categoryVideoStr" = "Videos";
+"categoryDocStr" = "Documents";
+"categoryOtherStr" = "Others";
+
+"funcUploadStr" = "Upload";
+"funcUpDownTableStr" = "Transfer Table";
+"funcNewStr" = "New";
+"funcSelectAllStr" = "Select All";
+"funcUnselectAllStr" = "Unselect All";
+"funcSelectStr"  =   "Select";
+
+"funcDownloadStr" = "Download";
+"funcDeleteStr" = "Delete";
+"funcRenameStr" = "Rename";
+"funcSelectedStr" = "%d selected";
+
+"mySDCardStr" = "My SD Card";
+"uploadStr" = "Upload";
+"capacityStr" = "Available:%@MB  Capacity:%@MB";
+"selectFolderStr" = "Select folder";
+
+"loadingStr" = "Loading...";
+
+"transferTableStr" = "Transfer Table";
+"transferUploadTableStr"  =   "Upload Table";
+"transferDownloadTableStr"  =   "Download Table";
+
+"transferWaitStr"  =   "Waiting...";
+"transferPauseStr"  =   "Pause";
+
+"transferDownloadFinishStr"  =   "Download finished";
+"transferDownloadingStr"  =   "Downloading...";
+
+"transferUploadFinishStr"  =   "Upload finished";
+"transferUploadingStr"  =   "Uploading...";
+
+/* AddComponentUIStrings */
+"addComponentsStr"  =   "Add Components";
+
+"functionsUIStr"  =   "Add Extended functions";
+"functionsUISubStr"  =   "MY SMARTFREN,HTTP Share,LAN Camera and so on";
+
+"mySmartfrenStr"  =   "MY SMARTFREN";
+"mySmartfrenTipsStr"  =   "User can see their account information,purchasing data package and etc through the MY SMARTFREN Web service.";
+"httpShareStr"  =   "HTTP Share";
+"httpShareTipsStr"  =   "This function is used to access the sd card of your device remotely. It is only avaiable when Storage Mode is internet storage, and your devcie and cellphone is in the same network segment.";
+"lanCameraStr"  =   "LAN Camera";
+"lanCameraTipsStr"  =   "The function would take a photo and upload it to \"WIFIPhotos\" of SD Card automatically. If operation fails, the photo would be stored in the cache.";
+"wanCameraStr"  =   "WAN Camera";
+"wanCameraTipsStr"  =   "The function would take a photo and upload it to \"WIFIPhotos\" of SD Card automatically. If operation fails, the photo would be stored in the cache. This function is only available when Storage Mode is internet storage, and your device and cellphone is in the same network segment.";
+"wpspbc24GStr"  =   "2.4G WPS PBC Button";
+"wpspbc5GStr"  =   "5G WPS PBC Button";
+"wpspbcTipsStr"  =   "This function would start WPS PBC immediately to help others to connect to your device, Please make sure the WPS is enabled. You can find more in \"SETTING -> Wi-Fi -> WPS\".";
+
+"someSettingsUIStr"  =   "Add shortcuts for some settings";
+"someSettings1UIStr"  =   "Add shortcuts";
+"someSettingsUISubStr"  =   "Shortcuts would make it convenient to use some classic function";
+
+"quickSettingTipsStr"  =   "This shortcut is like that you click \"SETTING\" in main page, and then click \"Quick Setup.\"";
+"macFilterTipsStr"  =   "This shortcut is like that you click \"SETTING\" in main page, and then click \"WiFi.\"";
+"wpsSettingTipsStr"  =   "This shortcut is like that you click \"SETTING\" in main page, and then click \"WiFi.\"";
+"pinSettingTipsStr"  =   "This shortcut is like that you click \"SETTING\" in main page, and then click \"Wan.\"";
+
+
+"commonFunctionUIStr"  =   "Add shortcuts for common function";
+"commonFunctionUISubStr"  =   "Functions you can find in mian page";
+
+"loginAndOutStr"  =   "LOGIN AND LOGOUT";
+
+"loginAndOutTipsStr"  =   "Management for login and logout.";
+"settingTipsStr"  =   "All settings of the device.";
+
+/* ButtonStrings */
+"clickAddComponentsStr"  =   "Click to add components";
+"cancelStr"  =   "Cancel";
+"okStr"  =   "OK";
+"addStr"  =   "Add";
+"deleteStr"  =   "Delete";
+"doneStr"  =   "Done";
+"backStr"  =   "Back";
+"addComponentStr"  =   "Add this component";
+"removeComponentStr"  =   "Remove this component";
+"managePhotoCachesStr"  =   "Manage photo caches";
+"configComponent"  =   "Config this component";
+
+"loginBtnStr"  =   "Login";
+
+"connectStr"  =   "Connect";
+"disconnectStr"  =   "Disconnect";
+"connectingStr"  =   "Connecting";
+"disconnectingStr"  =   "Disconnecting";
+
+"clearDataStr"  =   "Restart Counter";
+
+/* PINInputStrings */
+"pinInputSubStr"  =   "Input time(s): %d";
+
+"pinInputStr"  =   "Please input PIN(The PIN length must be between 4 and 8)";
+"pinInputFieldTipStr"  =   "4 ~ 8 Bit Number";
+
+"pukInputStr"  =   "PIN has been locked, please input PUK(The PUK length must be 8) to unlock PIN";
+"pukInputFieldTipStr"  =   "8 Bit Number";
+
+"oldPinStr"  =   "Old PIN";
+"newPinStr"  =   "New PIN";
+"confirmPinStr"  =   "Confirm New PIN";
+
+/* TipStrings */
+"noDeviceTipsStr"  =   "Device is not connected";
+"networkChangedTipsStr"  =   "Network changed";
+
+"processingStr" = "Processing, please wait...";
+
+"loginUserNameErrStr"  =   "User name cannot be empty";
+"loginPasswordErrStr"  =   "Password cannot be empty";
+"loginAlreadyStr"   =   "One user have login,please try later";
+"loginSuccessStr"  =   "Login Success";
+"loginNameFailedStr"   =   "User name is not correctly";
+"loginPasswordFailedStr"   =   "Password is not correctly";
+"loginErrorStr"  =   "Login Error";
+
+"connectNetworkErrStr"  =   "Connect to internet failed";
+"disconnectNetworkErrStr"  =   "Disconnect internet failed";
+
+"autoStr"  =   "Auto";
+"manualStr"  =   "Manual";
+"enableStr"  =   "Enable";
+"disableStr"  =   "Disable";
+"searchStr"  =   "Search";
+
+"dnyDNSStr"  =   "DynDNS.org";
+"controlNoFilteringStr"  =   "No filtering";
+"controlBlockAllInListStr"  =   "Block all in list";
+"protocolTCPStr"  =   "TCP";
+"protocolUDPStr"  =   "UDP";
+"protocolBothStr"  =   "Both";
+
+"anyStr"  =   "Any";
+"restrictionStr"  =   "Restriction";
+
+"noneStr"  =   "None";
+"chapStr"  =   "CHAP";
+"papStr"  =   "PAP";
+
+"autoMatchStr"  =   "--Auto match--";
+"createNewStr"  =   "--Create new default--";
+
+"onStr"  =   "On";
+"offStr"  =   "Off";
+
+"networkOperatorStr"  =   "Operator";
+"networkServiceStr"  =   "Service";
+"networkStatusStr"  =   "Status";
+
+"resetStr"  =   "Reset";
+"turnOffStr"  =   "Turn off";
+"restartStr"  =   "Restart";
+
+"storageInternetStr"  =   "Internet Storage";
+"storageWiFi"  =   "WiFi Storage";
+"storageLocal"  =   "Local Storage";
+
+"restoreDeviceStr"   =   "Are you sure you want to reset to factory default settings ?";
+"shutdownDeviceStr"   =   "Are you sure you want to shutdown device ?";
+"rebootDeviceStr"   =   "Are you sure you want to reboot device ?";
+"setLanRebootStr"  =   "Change this setiing will reboot the device, are you sure you want to change ?";
+"storageRestartWiFiStr"  =   "Change this setiing will restart the WiFi, are you sure you want to change ?";
+
+"networkOKErrorStr"  =   "You must select a network in network list.";
+"networkSearchErrorStr"  =   "Can not find any network or some error here, please refresh to try again.";
+
+"pukLockedStr"  =   "You have tried the PUK code more than ten times.";
+"wrongPUKFormatStr"  =   "The PUK length must be 8";
+"wrongPINStr" = "PIN code you input is incorrect";
+"wrongPINFormatStr"  =   "The length must be between 4 and 8";
+"enablePINOKStr" = "Enable PIN success";
+"disablePINOKStr" = "Disable PIN success";
+
+"modifyPasswordOKStr" = "Modify PIN success";
+"modifyPasswordNOStr" = "Modify PIN failed";
+
+"modifyPINOKStr" = "Modify PIN success";
+"modifyPINNOStr" = "Modify PIN failed";
+
+"defaultPINSetStr"  =   "New PIN has been set as \"1234\", you can change PIN in \"Setting -> Wan -> PIN Management\".";
+
+"oldPinEmptyStr"  =   "Old PIN can not be empty";
+"newPinEmptyStr"  =   "New PIN can not be empty";
+"confirmEmptyStr"  =   "Confirm PIN can not be empty";
+"newConfirmErrorStr"  =   "New PIN and Confirm PIN is not equal";
+
+"InvalidUserNameStr"  =   "Your Administrator username needs to be 1-20 characters, valid characters: a-z, A-Z, 0-9, `~!@$^&*()[]{};:,.";
+"InvalidPasswordStr"  =   "Your Administrator password needs to be 1-20 characters, valid characters: a-z, A-Z, 0-9, `~!@$^&*()[]{};:,.";
+"DifferPasswordStr"  =   "The password you retyped is differ with the password you entered in new password!";
+"Invalid64BitPasswordStr"  =   "WiFi password should be 5 ASCII characters or 10-digit HEX number.";
+"Invalid128BitPasswordStr"  =   "WiFi password should be 13 ASCII characters or 26-digit HEX number.";
+"InvalidNormalPasswordStr"  =   "WiFi password should be 8-63 characters.";
+"InvalidSSIDNameStr"  =   "ASCII character 32(space) shall not be used to begin and terminate an SSID character strings.";
+"InvalidBeaconIntervalStr"  =   "Beacon interval must be between 50-4000.";
+"InvalidMacAddressStr"  =   "Invalid MAC address. The address entered is a mutlicast address";
+"InvalidMacNameStr"  =   "The host name must be 1-15 characters,valid characters: a-z,A-Z,0-9 and -.";
+"InvalidClientPinStr"  =   "Invalid client PIN, Please check carefully.";
+
+"EmptyYearStr"  =   "The year is empty.";
+"InvalidYearStr"  =   "The year must between 1970 and 2037.";
+"EmptyMouthStr"  =   "The month is empty.";
+"InvalidMouthStr"  =   "The month must between 1 and 12.";
+"EmptyDayStr"  =   "The day is empty.";
+"InvalidDayStr"  =   "The day must between 1 and 31.";
+"EmptyHourStr"  =   "The hour is empty.";
+"InvalidHourStr"  =   "The hour must between 0 and 23.";
+"EmptyMinuteStr"  =   "The minute is empty.";
+"InvalidMinuteStr"  =   "The minute must between 0 and 59.";
+"InvalidDateStr"  =   "The date is not valid.";
+"InvalidIpAddressStr"  =   "Invalid IP address.";
+"InvalidsubnetMaskStr"  =   "Invaild subnet mask.";
+"DuplicateDNSAddressStr"  =   "Duplicate DNS Address.";
+
+"EmptyDDNSUserNameStr"  =   "Please enter user name.";
+"EmptyDDNSPasswordStr"  =   "Please enter your password.";
+"EmptyDDNSDomainNameStr"  =   "Please enter the domain name you want to update.";
+
+"DuplicateIPrangeStr"  =   "Duplicate IP range.";
+"LanIPFilterOverlapIPStr"  =   "The IP range is overlap.";
+
+"InvalidPortStr"  =   "Invalid port. The port must be between 1-65535.";
+"OutofNetworkSegmentStr"  =   "The IP address you entered is out of network segment.";
+"EqualLanIPStr"  =   "The IP address you entered is LAN IP address.";
+
+"InvalidDstIPStr"  =   "Please check the IP address.";
+"InvalidDstIPEqualLanIPStr"  =   "Invalid start or end IP address. The LAN IP address cannot be in the DHCP address pool.";
+
+"EmptyProfileNameStr"  =   "Input a profile name please!";
+"EmptyAPNStr"  =   "Input a APN please!";
+
+"createNoStr"   =   "Create folder failed";
+"deleteOkStr"   =   "File delete success";
+"deleteNoStr"   =   "File delete failed";
+"deleteFileStr" =   "Are you sure you want to delete ?";
+"processingFailStr" =   "Failed to open file";
+
+"modifyOKStr" = "Modify success";
+"modifyNOStr" = "Modify failed";
+
+"wifiPhotoUploadSuccess"  =   "Upload successfully.";
+"wifiPhotoUploadFailed"  =   "Upload failed. Image will be stored in cache.";
+"wifiMovieUploadFailed"  =   "Upload failed. Movie will be stored in cache.";
+
+"httpShareInfoStr"  =   "Make sure that your remote device is in the Internet Storage Mode. You should enter IP address of your device, which you can get in the status page or Storage Setting. WAN Camera uses the same url, username and password to login. Please take care that the ip address is variable as it depends on the network.";
+
+"NoSIMCardStr"  =   "No (U)SIM Card, Please insert a (U)SIM Card.";
+"InvalidSIMCardStr"  =   "Invalid (U)SIM Card.";
+"NotReadySIMCardStr"  =   "Initing,Please wait...";

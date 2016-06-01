@@ -1,0 +1,5 @@
+platform :ios, '9.2'
+
+pod 'KVNProgress', '~> 2.2.1'
+pod 'AFNetworking', '~> 2.6.3'
+pod 'RoutingHTTPServer', '~> 1.0.0'
